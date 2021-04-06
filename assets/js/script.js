@@ -1,4 +1,4 @@
-var nome = prompt('come ti chiami?');
+var nome = prompt('il tuo nome?');
 var cognome = prompt('il tuo cognome?');
 var colore = prompt('colore preferito?');
 
